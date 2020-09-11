@@ -1,0 +1,9 @@
+/home/wers4/Projects/API_testing_Softek/API_testing_Softek/bin/Debug/API_testing_Softek.exe
+/home/wers4/Projects/API_testing_Softek/API_testing_Softek/bin/Debug/API_testing_Softek.pdb
+/home/wers4/Projects/API_testing_Softek/API_testing_Softek/bin/Debug/RestSharp.dll
+/home/wers4/Projects/API_testing_Softek/API_testing_Softek/bin/Debug/RestSharp.xml
+/home/wers4/Projects/API_testing_Softek/API_testing_Softek/obj/x86/Debug/API_testing_Softek.csprojAssemblyReference.cache
+/home/wers4/Projects/API_testing_Softek/API_testing_Softek/obj/x86/Debug/API_testing_Softek.csproj.CoreCompileInputs.cache
+/home/wers4/Projects/API_testing_Softek/API_testing_Softek/obj/x86/Debug/API_testing_Softek.csproj.CopyComplete
+/home/wers4/Projects/API_testing_Softek/API_testing_Softek/obj/x86/Debug/API_testing_Softek.exe
+/home/wers4/Projects/API_testing_Softek/API_testing_Softek/obj/x86/Debug/API_testing_Softek.pdb
